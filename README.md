@@ -1,1 +1,2 @@
 # Face-Recognition
+Mini project
